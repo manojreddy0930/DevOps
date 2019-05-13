@@ -5,3 +5,5 @@ Another remote change
 
 Modify local
 
+Modify local stash
+
